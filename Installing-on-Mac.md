@@ -1,4 +1,3 @@
-## Mac
 This is a little more complicated, as its Apple after all! Please note, it does not work for secure areas such as password inputs. I have not found a work around yet.
 
 ### Installation
