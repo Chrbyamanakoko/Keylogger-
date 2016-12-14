@@ -15,7 +15,7 @@ Logging to: /var/log/keystroke.log`
 
 Want to make it start on system startup?
 
-`$ sudo make uninstall`
+`$ sudo make startup`
 
 That will run it on startup.
 
