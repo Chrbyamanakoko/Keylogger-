@@ -21,7 +21,7 @@ Set where you want the log to go **before** running this step.
 
 `RECORD extension version 1.13`
 
-The keylogger is now running! It will log your strokes to the file you specified. Stop it by hitting the grave key. Thats the one under escape on a standard keyboard.
+The keylogger is now running! It will log your strokes to the file you specified. Stop it by hitting the grave key. That's the one under escape on a standard keyboard.
 
 ---
 
