@@ -1,7 +1,8 @@
-Simply compile into an .exe, and then run. 
+To change visibility of the window set the `#define` in line 6 to `visible` or `invisible`.
 
-There are two files; klog_visible and klog_invisible. It is pretty simple, but I will expand:
+Simply compile into an .exe, and then run. Visual Studio is good for this.
 
-`klog_visible` is visible, and the window does not close when typing. Great for testing it out. `klog_invisible` makes the window of the logger disappear, and it also starts up hidden from view. Note that it is still visible in the task manager.
+- `invisible` makes the window of the logger disappear, and it also starts up hidden from view. Note that it is still visible in the task manager.
+- `visible` is visible, and the window does not close when typing. Great for testing it out.
 
 Both of these save the keystrokes to a .txt file when closed.
