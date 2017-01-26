@@ -5,8 +5,9 @@ Download the repo. It will install in `/usr/local/bin/keylogger`.
 
 Install it:
 
-`$ git clone https://github.com/GiacomoLaw/Keylogger && cd keylogger
-$ make && make install`
+```
+$ git clone https://github.com/GiacomoLaw/Keylogger && cd keylogger
+$ make && make install
 
 It will log to `/var/log/keystroke.log`. This may require root access, but you can change that if you want. Set where you want it to log:
 
